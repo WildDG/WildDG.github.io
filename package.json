@@ -1,0 +1,24 @@
+{
+  "name": "WildDG.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "watch::styles": "sass --watch src/style.scss assets/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WildDG/WildDG.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WildDG/WildDG.github.io/issues"
+  },
+  "homepage": "https://github.com/WildDG/WildDG.github.io#readme"
+}
